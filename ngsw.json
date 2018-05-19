@@ -1,0 +1,91 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.299964b482e8e0bfdfb7.js",
+        "/polyfills.a8e1fcb1caf2b6c7cdae.js",
+        "/runtime.a66f828dca56eeb90e02.js",
+        "/styles.367a35f707fe371fb1c4.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/WS.png",
+        "/assets/images/bbook.jpg",
+        "/assets/images/bbook.png",
+        "/assets/images/bergara.png",
+        "/assets/images/bergara.png~",
+        "/assets/images/boa.png",
+        "/assets/images/boa.png~",
+        "/assets/images/museum1.png",
+        "/assets/images/museum2.png",
+        "/assets/images/spacemark.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/WS.png": "97073756920f4161d86ebaa0f22f22601a2885c8",
+    "/assets/images/bbook.jpg": "b18ee87f5d8100405370f5b3e9973c61091ddce4",
+    "/assets/images/bbook.png": "0bd71daa9d55b2b85e55dafc4d8662230bdcfb71",
+    "/assets/images/bergara.png": "fe6ed1c16fcf068c3a391c9a35fe6bca2437c85e",
+    "/assets/images/bergara.png~": "498edaf6848ce24d8d1fa5866064dfc2a8248576",
+    "/assets/images/boa.png": "637f2c1a61c91a67de0bc3da0dc671087b11c241",
+    "/assets/images/boa.png~": "0b33cc0edc11e9007f49e2369028cb7ab7d6cbac",
+    "/assets/images/museum1.png": "3d6020940bc896212d1b39ad19257db17ccda35a",
+    "/assets/images/museum2.png": "42d51154b6fbb1d9cbfefbaf3cf80b0841fbd18c",
+    "/assets/images/spacemark.jpg": "89071722742a8a42ef0ed0d7cf5059c59fee1754",
+    "/favicon.ico": "4579255a96eca24fd69d42df8cb1bb19a3b36aa7",
+    "/index.html": "7fa884c95eaf2c91a068556ab18c0652a745734e",
+    "/main.299964b482e8e0bfdfb7.js": "5894c05f7cd46d016a9f0944af66267a7aa5ff99",
+    "/polyfills.a8e1fcb1caf2b6c7cdae.js": "b7e2a904d991459f495b427233e93871eeb45c6b",
+    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "/styles.367a35f707fe371fb1c4.css": "336c84940fd89ef3edce33f394d588c5bd430ada"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*\\.[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^\\/]*__[^\\/]*\\/.*$"
+    }
+  ]
+}
