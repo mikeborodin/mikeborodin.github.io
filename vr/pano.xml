@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <input tilescale="1.004000" tilesize="2500" levelingpitch="0" prev4url="images/Wagon_Bouldering_Rooms_Panorama_01_o_preview_4.jpg" prev0url="images/Wagon_Bouldering_Rooms_Panorama_01_o_preview_0.jpg" prev3url="images/Wagon_Bouldering_Rooms_Panorama_01_o_preview_3.jpg" prev2url="images/Wagon_Bouldering_Rooms_Panorama_01_o_preview_2.jpg" tile1url="images/Wagon_Bouldering_Rooms_Panorama_01_o_1.jpg" tile5url="images/Wagon_Bouldering_Rooms_Panorama_01_o_5.jpg" tile0url="images/Wagon_Bouldering_Rooms_Panorama_01_o_0.jpg" tile2url="images/Wagon_Bouldering_Rooms_Panorama_01_o_2.jpg" tile3url="images/Wagon_Bouldering_Rooms_Panorama_01_o_3.jpg" levelingroll="0" prev1url="images/Wagon_Bouldering_Rooms_Panorama_01_o_preview_1.jpg" prev5url="images/Wagon_Bouldering_Rooms_Panorama_01_o_preview_5.jpg" tile4url="images/Wagon_Bouldering_Rooms_Panorama_01_o_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="20" pan="0" tilt="-90"/>
+      <max fov="110" pan="360" tilt="90"/>
+    </view>
+    <userdata info="" title="" comment="" source="" tags="out" author="" longitude="" datetime="" description="" latitude="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" width="180" bordercolor="0x000000" textalpha="1" borderradius="1" backgroundalpha="1" enabled="1" borderalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <polyhotspot url="{node2}" title="" id="Poly01" description="" target="-0.500521/0.502175/70">
+        <vertex pan="2.34" tilt="-17.82"/>
+        <vertex pan="0.83" tilt="-17.84"/>
+        <vertex pan="0.11" tilt="-19"/>
+        <vertex pan="1.78" tilt="-19.79"/>
+        <vertex pan="3.36" tilt="-18.82"/>
+      </polyhotspot>
+      <polyhotspot url="{node3}" title="" id="Poly02" description="" target="0/0/70">
+        <vertex pan="1.36" tilt="-8.72"/>
+        <vertex pan="0.91" tilt="-8.7"/>
+        <vertex pan="0.76" tilt="-9"/>
+        <vertex pan="1.15" tilt="-9.17"/>
+        <vertex pan="1.55" tilt="-8.99"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomfov="20" blendtime="1" blendcolor="0x000000" zoomin="2" zoomspeed="2" enabled="1" softedge="0" zoomoutpause="1"/>
+    <autorotate delay="10.00" returntohorizon="0.000" noderandom="1" startloaded="1" nodedelay="0.00" useanimation="0" speed="0.150"/>
+    <control invertwheel="1" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" lockedwheel="0" hideabout="0" speedwheel="3" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <input tilescale="1.004000" tilesize="2500" levelingpitch="0" prev4url="images/Wagon_Bouldering_Rooms_Panorama_02_o_preview_4.jpg" prev0url="images/Wagon_Bouldering_Rooms_Panorama_02_o_preview_0.jpg" prev3url="images/Wagon_Bouldering_Rooms_Panorama_02_o_preview_3.jpg" prev2url="images/Wagon_Bouldering_Rooms_Panorama_02_o_preview_2.jpg" tile1url="images/Wagon_Bouldering_Rooms_Panorama_02_o_1.jpg" tile5url="images/Wagon_Bouldering_Rooms_Panorama_02_o_5.jpg" tile0url="images/Wagon_Bouldering_Rooms_Panorama_02_o_0.jpg" tile2url="images/Wagon_Bouldering_Rooms_Panorama_02_o_2.jpg" tile3url="images/Wagon_Bouldering_Rooms_Panorama_02_o_3.jpg" levelingroll="0" prev1url="images/Wagon_Bouldering_Rooms_Panorama_02_o_preview_1.jpg" prev5url="images/Wagon_Bouldering_Rooms_Panorama_02_o_preview_5.jpg" tile4url="images/Wagon_Bouldering_Rooms_Panorama_02_o_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="20" pan="0" tilt="-90"/>
+      <max fov="110" pan="360" tilt="90"/>
+    </view>
+    <userdata info="" title="" comment="" source="" tags="out" author="" longitude="" datetime="" description="" latitude="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" width="180" bordercolor="0x000000" textalpha="1" borderradius="1" backgroundalpha="1" enabled="1" borderalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <polyhotspot url="{node3}" title="" id="Poly01" description="" target="0/0/70">
+        <vertex pan="1.83" tilt="-17.54"/>
+        <vertex pan="0.32" tilt="-17.45"/>
+        <vertex pan="-0.47" tilt="-18.57"/>
+        <vertex pan="1.29" tilt="-19.23"/>
+        <vertex pan="2.62" tilt="-18.48"/>
+      </polyhotspot>
+      <polyhotspot url="{node1}" title="" id="Poly02" description="" target="177.83/-3.88835/79.1">
+        <vertex pan="-178.77" tilt="-19.6"/>
+        <vertex pan="179.55" tilt="-19.53"/>
+        <vertex pan="178.82" tilt="-20.66"/>
+        <vertex pan="-179.59" tilt="-21.5"/>
+        <vertex pan="-178.01" tilt="-20.8"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomfov="20" blendtime="1" blendcolor="0x000000" zoomin="2" zoomspeed="2" enabled="1" softedge="0" zoomoutpause="1"/>
+    <autorotate delay="10.00" returntohorizon="0.000" noderandom="1" startloaded="1" nodedelay="0.00" useanimation="0" speed="0.150"/>
+    <control invertwheel="1" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" lockedwheel="0" hideabout="0" speedwheel="3" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <input tilescale="1.004000" tilesize="2500" levelingpitch="0" prev4url="images/Wagon_Bouldering_Rooms_Panorama_03_o_preview_4.jpg" prev0url="images/Wagon_Bouldering_Rooms_Panorama_03_o_preview_0.jpg" prev3url="images/Wagon_Bouldering_Rooms_Panorama_03_o_preview_3.jpg" prev2url="images/Wagon_Bouldering_Rooms_Panorama_03_o_preview_2.jpg" tile1url="images/Wagon_Bouldering_Rooms_Panorama_03_o_1.jpg" tile5url="images/Wagon_Bouldering_Rooms_Panorama_03_o_5.jpg" tile0url="images/Wagon_Bouldering_Rooms_Panorama_03_o_0.jpg" tile2url="images/Wagon_Bouldering_Rooms_Panorama_03_o_2.jpg" tile3url="images/Wagon_Bouldering_Rooms_Panorama_03_o_3.jpg" levelingroll="0" prev1url="images/Wagon_Bouldering_Rooms_Panorama_03_o_preview_1.jpg" prev5url="images/Wagon_Bouldering_Rooms_Panorama_03_o_preview_5.jpg" tile4url="images/Wagon_Bouldering_Rooms_Panorama_03_o_4.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="20" pan="0" tilt="-90"/>
+      <max fov="110" pan="360" tilt="90"/>
+    </view>
+    <userdata info="" title="" comment="" source="" tags="out" author="" longitude="" datetime="" description="" latitude="" copyright=""/>
+    <hotspots height="20" width="180" wordwrap="1">
+      <label background="1" textcolor="0x000000" backgroundcolor="0xffffff" border="1" height="20" width="180" bordercolor="0x000000" textalpha="1" borderradius="1" backgroundalpha="1" enabled="1" borderalpha="1" wordwrap="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" mode="1" bordercolor="0x0000ff" backgroundalpha="0.2509803921568627" borderalpha="1"/>
+      <polyhotspot url="{node2}" title="" id="Poly01" description="" target="175.989/-2.70869/70">
+        <vertex pan="-178.38" tilt="-15.9"/>
+        <vertex pan="-179.36" tilt="-15.91"/>
+        <vertex pan="-179.74" tilt="-16.52"/>
+        <vertex pan="-178.87" tilt="-16.95"/>
+        <vertex pan="-177.94" tilt="-16.47"/>
+      </polyhotspot>
+      <polyhotspot url="{node1}" title="" id="Poly02" description="" target="179.889/1.52453/79.1">
+        <vertex pan="-178.76" tilt="-9.64"/>
+        <vertex pan="-179.2" tilt="-9.66"/>
+        <vertex pan="-179.49" tilt="-10.01"/>
+        <vertex pan="-178.97" tilt="-10.27"/>
+        <vertex pan="-178.4" tilt="-9.97"/>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomfov="20" blendtime="1" blendcolor="0x000000" zoomin="2" zoomspeed="2" enabled="1" softedge="0" zoomoutpause="1"/>
+    <autorotate delay="10.00" returntohorizon="0.000" noderandom="1" startloaded="1" nodedelay="0.00" useanimation="0" speed="0.150"/>
+    <control invertwheel="1" invertcontrol="1" dblclickfullscreen="0" lockedmouse="0" lockedkeyboardzoom="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="0" lockedwheel="0" hideabout="0" speedwheel="3" sensitivity="8"/>
+  </panorama>
+</tour>
